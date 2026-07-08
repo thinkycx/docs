@@ -1,0 +1,8 @@
+sdk-source/
+demos/.venv/
+demos/__pycache__/
+*.pyc
+
+dist/
+.md2site.json
+.claude

@@ -1,11 +1,15 @@
 # Claude Code 参考资源
 
-Claude Code 相关的源码分析、工具、教程和社区资源汇总。
+Claude Code 相关的源码分析、工具、教程和社区资源汇总。欢迎评论区补充。
+
+更新时间：20260706
+
 
 ## 源码与内部机制
 
 - [Claude Code 泄露版本源码分析](https://cc-docs-a9ff.ipfs.4everland.app/) — 早期泄露的 Claude Code 源码文档化站点，含内部架构和实现细节
-- [Claude Code System Prompt（GitHub）](https://github.com/anthropics/claude-code/blob/main/.github/prompts/system-prompt.md) — 官方开源的系统提示词
+- [Claude Code 源码深度架构分析@weixin](https://mp.weixin.qq.com/s/GjZ-tFBVwfJwK11F1lP5TQ)
+- [Claude Code System Prompt（GitHub）](https://github.com/Piebald-AI/claude-code-system-prompts) — 官方开源的系统提示词
 - [Claude Code 官方 GitHub 仓库](https://github.com/anthropics/claude-code) — 官方开源代码
 
 ## 官方文档
@@ -16,9 +20,6 @@ Claude Code 相关的源码分析、工具、教程和社区资源汇总。
 
 ## 社区资源
 
-- [Awesome Claude Code](https://github.com/anthropics/claude-code/discussions) — 官方 Discussions 社区
-- [Claude Code Hooks 实践集合](https://github.com/anthropics/claude-code/discussions/categories/hooks) — 社区分享的 Hooks 配置
-- [Claude Code Plugins 市场](https://marketplace.claude.com/) — 官方插件市场
 
 ## 竞品对比
 
